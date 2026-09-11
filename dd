@@ -1,0 +1,104 @@
+MOHANDAS COLLEGE OF ENGINEERING AND TECHNOLOGY
+DEPARTMENT OF COMPUTER APPLICATIONS
+MCA SEMESTER:  1
+PROGRAMMING LAB
+September   2026
+Sub: First Semester MCA - Scheme of evaluation of each program – instructions issued.
+All students of first Semester MCA are informed the following:
+    1. In order to attend the lab, rough record with the completed algorithm should be submitted.
+    2. The program has to be developed in a professional way meeting all requirements. It should also show Name of the program, name of the developer and the date. Enough comments are to be added to describe the actions.  Validations on input data by user are to be made as per the description of the problem.
+    3. Evaluation is done for maximum of 30 marks for each question. Quality of the code is decided by Style of Coding and Readability, Introduction of in line Comments, Efficiency of Code etc. The scheme for evaluation is as follows: Completion – 10 Marks, Output/Record  - 10 Marks & Viva -10 Marks
+Lab Cycle
+         Course Outcome 1 (CO1):
+1.  Integer operations 
+	a. Accept the radius from user and find area of circle.	
+	b. Find biggest of 3 numbers entered.
+	c. Accept an integer n and compute n+nn+nnn
+      d. Find the greatest common divisor(gcd) of two numbers 
+2. List operations
+     a. Create a list to store any 5 integers and Display it .
+	b. Create a list to store the days of a week and display the fifth day of the week .
+	c. From a list of integers, create a list removing even numbers
+	d. Prompt the user for a list of integers. For all values greater than 100, store ‘over’ instead.
+	e. Enter 2 lists of integers. Check (a) Whether list are of same length (b) whether list sums
+	    to same value (c) whether any value occur in both.
+			
+3.Function programs 
+	a. Function program to print “hello world”
+	b. Function program to display “ hello ------“ by filling dash with your name stored in variable ‘Name’.
+       c.Find the sum and product of three numbers using a function 
+d. Display future leap years from current year to a final year entered by user using a function .
+4. List comprehensions:
+   (a) Generate positive list of numbers from a given list of integers
+   (b) Square of N numbers
+   (c) Form a list of vowels selected from a given word
+   (d) List ordinal value of each element of a word (Hint: use ord() to get ordinal values)
+5. String  and  dictionary operations 
+	a. Store a list of first names. Count the occurrences of ‘a’ within the list 
+     b. Get a string from an input string where all occurrences of first character replaced with
+            ‘$’, except first character.[eg: onion -> oni$n]
+	c. Create a string from given string where first and last characters exchanged. [eg: python -
+          > nythop
+	d. Accept a file name from user and print extension of that.
+      e. Count the occurrences of each word in a line of text.
+	f. Create a list of colors from comma-separated color names entered by user. Display
+          first and last colors.
+	g. Print out all colors from color-list1 not contained in color-list2.
+	h. Create a single string separated with space from two strings by swapping the
+          character at position 1.
+               i. To store and display the contents of a directory.
+               j. Sort dictionary in ascending and descending order.
+      k. Merge two dictionaries.
+Course Outcome 2 (CO2)
+6. Loop programs 
+	a. Program to find the factorial of a number
+	b. Generate Fibonacci series of N terms
+	c. Find the sum of all items in a list
+	d. Generate a list of four digit numbers in a given range with all their digits even and the
+	     number is a perfect square.
+	e. Display the given pyramid with step number accepted from user.Eg: N=4
+1
+2 4
+3 6 9
+4 8 12 16
+	f. Count the number of characters (character frequency) in a string.
+     g. Add ‘ing’ at the end of a given string. If it already ends with ‘ing’, then add ‘ly’
+	h. Accept a list of words and return length of longest word.
+	i. Construct following pattern using nested loop
+*
+* *
+* * *
+* * * *
+* * *
+* *
+*
+     j.  Generate all factors of a number.
+7.  Lambda functions
+     a. Program to find square of a number using lambda Function 
+     b.  Write lambda functions to find area of square, rectangle and triangle.
+         8.  Regular Expressions (CO5)
+		a. Write a Python program that matches a word at the beginning of a string.
+		b. Write a Python function to find and return all numbers/digits present in a given sentence.
+               c. Write a Python program to check if a string matches a pattern that has an a followed by zero or more b’s.
+Course Outcome 4 (CO4):
+9. Class operations 
+	a. Create Rectangle class with attributes length and breadth and methods to find area and
+	    perimeter. Compare two Rectangle objects by their area.
+	b. Create a Bank account with members account number, name, type of account and balance.
+	c. Write constructor and methods to deposit at the bank and withdraw an amount from the bank.
+	d. Create a class Rectangle with private attributes length and width. Overload ‘<’ operator to
+	     compare the area of 2 rectangles.
+	e. Create a class Time with private attributes hour, minute and second. Overload ‘+’ operator to
+	    find sum of 2 time.
+	f. Create a class Publisher (name). Derive class Book from Publisher with attributes title and author.
+         Derive class Python from Book with attributes price and no_of_pages. Write a  program   that displays
+          information about a Python book. Use base class constructor invocation and  method overriding.
+Course Outcome 5 (CO5):
+10.File operations 
+	a. Write a Python program to read a file line by line and store it into a list.
+	b. Python program to copy odd lines of one file to other
+	c. Write a Python program to read each row from a given csv file and print a list of strings.
+	d. Write a Python program to read specific columns of a given CSV file and print the content
+          of the columns.
+11. Write a Python program to write a Python dictionary to a csv file. After writing the CSV file
+       read the CSV file and display the content.
